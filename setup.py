@@ -4,7 +4,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
     README = f.read()
 
 setup(
-    name='relu',
+    name='reluai',
     version='1.0.0',
     description='A command-line assistant powered by Gemini AI to enhance productivity',
     long_description=README,
